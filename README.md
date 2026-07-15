@@ -3,6 +3,13 @@ SelfYT
 自部署 YouTube 视频下载器，PC 做服务端，手机装 APP，走局域网，不经过任何第三方网站。
 
 
+运行环境
+
+  PC 端：仅支持 Windows 10 / 11（macOS / Linux 不支持）
+  手机端：仅支持 Android 8.0+（iOS 不支持）
+  需同一 WiFi 局域网
+
+
 一、功能
 
 粘贴 YouTube 链接 → 解析视频信息（标题、封面、时长）
@@ -113,4 +120,4 @@ Android 端（app/）
 八、下载
 
   源码：GitHub 仓库
-  APK：Releases 页面
+  APK：Releases 页面（下载后删掉 .zip 后缀即可安装）
